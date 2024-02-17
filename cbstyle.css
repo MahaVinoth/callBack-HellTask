@@ -1,0 +1,24 @@
+body{
+    background-color:darkgoldenrod;
+}
+div{
+    /* background-color: black; */
+    font-size: 150px;
+    margin: 100px;
+    text-align: center;
+    margin:100px;
+    zoom: 120%;
+
+}
+.even{
+    color: white;    
+}
+.odd{
+    color: black; 
+}
+.happyText{
+    font-size: 100px;
+    color:green;
+    zoom: 140%;
+}
+
